@@ -1,24 +1,64 @@
-# Introduction
+# LPIC-2 Certification Study Guide
 
-Welcome to LPIC2 Certification Exam guide.If you are here and studying this article it means you love linux and you are excited to learn and experience new things. So Fasten your seat belts and be prepared to explore Linux world.
+## Overview
 
-You can see the overview of LPIC2 Certification [here ](http://www.lpi.org/our-certifications/lpic-2-overview)and as you probably know LPIC2 is consist of two exams [201](http://www.lpi.org/our-certifications/exam-201-objectives) and [202](http://www.lpi.org/our-certifications/exam-202-objectives).As light of way 201 exam is more about linux itself and you will add more tools to your toolbox .In contrast, in 202 course we will start learning about Linux Infrastructure services. We will talk about some extra products which will let us to use linux as an infrastructure server in our real environments.
+This comprehensive study guide covers the Linux Professional Institute Certification Level 2 (LPIC-2), designed for experienced Linux system administrators seeking advanced certification. LPIC-2 validates the skills required to administer small to medium-sized mixed networks.
 
-Okey, Lets keep it simple and start ... :-)
+## Certification Structure
 
-By Payam Borosan
+LPIC-2 certification consists of two examinations:
 
-* Site: [www.linuxcert.ir](http://linuxcert.ir/)
-* GitBook: [https://borosan.gitbook.io/lpic2-exam-guide/](https://borosan.gitbook.io/lpic2-exam-guide/)
-* e-mail: p.borosan \[at] gmail.com
+- **[Exam 201-450](http://www.lpi.org/our-certifications/exam-201-objectives)**: Linux Kernel and System Startup
+- **[Exam 202-450](http://www.lpi.org/our-certifications/exam-202-objectives)**: Linux Network and System Security
 
-Donation :
+### Exam 201 Focus Areas
+Advanced Linux system administration including kernel management, system startup processes, filesystem administration, storage devices, and network configuration.
 
-* coffeete (from IR): [https://www.coffeete.ir/borosan](https://www.coffeete.ir/borosan)
-* bitcoin: bc1qhm5nr98su6xupv4dd6zt2m0sq2dzxh69zejm85
-* ethereum: 0x6F3D43A6957CC61b74Fe85Ad52D05d91a2B13c67
-* litecoin: ltc1qvxu57q2f3ay9tzu6tffkayc65te80vax9wzxn7
+### Exam 202 Focus Areas
+Network services configuration and security, including DNS, web services, file sharing, email systems, and security implementations.
 
-![](.gitbook/assets/lpic2-201&202.jpg)
+## Prerequisites
 
-![](.gitbook/assets/CC-BY-NC-icon-88x31.png)
+- Valid LPIC-1 certification
+- Practical Linux system administration experience
+- Understanding of networking fundamentals
+
+## Study Resources
+
+- [Official LPIC-2 Overview](http://www.lpi.org/our-certifications/lpic-2-overview)
+- [LPI Learning Materials](https://learning.lpi.org/)
+- Practice labs and hands-on exercises
+
+## Getting Started
+
+1. Review the [exam objectives](http://www.lpi.org/our-certifications/lpic-2-overview)
+2. Assess your current knowledge level
+3. Follow the structured learning path in this guide
+4. Practice with real-world scenarios
+5. Take practice exams before certification
+
+---
+
+## Author Information
+
+**Payam Borosan**
+- Website: [linuxcert.ir](http://linuxcert.ir/)
+- GitBook: [LPIC2 Exam Guide](https://borosan.gitbook.io/lpic2-exam-guide/)
+- Contact: p.borosan [at] gmail.com
+
+## Support This Project
+
+If you find this study guide helpful, consider supporting its development:
+
+- [Coffee donation (Iran)](https://www.coffeete.ir/borosan)
+- Bitcoin: `bc1qhm5nr98su6xupv4dd6zt2m0sq2dzxh69zejm85`
+- Ethereum: `0x6F3D43A6957CC61b74Fe85Ad52D05d91a2B13c67`
+- Litecoin: `ltc1qvxu57q2f3ay9tzu6tffkayc65te80vax9wzxn7`
+
+## License
+
+This work is licensed under Creative Commons Attribution-NonCommercial.
+
+![LPIC-2 Certification](.gitbook/assets/lpic2-201&202.jpg)
+
+![CC BY-NC License](.gitbook/assets/CC-BY-NC-icon-88x31.png)
